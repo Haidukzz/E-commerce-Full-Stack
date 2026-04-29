@@ -236,8 +236,6 @@ Problemas reais de produção encontrados e resolvidos durante o desenvolvimento
 | Hashes BCrypt inválidos no seed Flyway | Regeneração com Python bcrypt com prefixo `$2a$` |
 | CORS bloqueando requests do frontend React | `CorsConfigurationSource` com `allowedOriginPatterns` |
 
-> 🧠 Cada problema foi diagnosticado por análise metódica dos logs e resolvido de forma cirúrgica, sem gambiarras.
-
 ---
 
 ## 📝 Licença
@@ -250,6 +248,6 @@ MIT License — veja [LICENSE](LICENSE) para detalhes.
 
 Feito com ☕ e muita persistência
 
-**[LinkedIn](https://linkedin.com/in/SEU_PERFIL) · [Email](mailto:SEU_EMAIL)**
+**[LinkedIn](https://www.linkedin.com/in/gustavo-haiduk-17287a278/) · [Email](mailto:gustavorau250@gmail.com)**
 
 </div>
